@@ -1,0 +1,673 @@
+Server is waiting to accept user...
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::allocateMemory has been called by com.sun.marlin.OffHeapArray (file:/C:/Users/Mai/Downloads/BTL-Lap-Trinh-Mang-PTIT-main/BTL-Lap-Trinh-Mang-PTIT-main/src/lib/javafx-graphics-24.0.1-win.jar)
+WARNING: Please consider reporting this to the maintainers of class com.sun.marlin.OffHeapArray
+WARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release
+127.0.0.1
+Connected to database
+Server thread number 0 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 0
+client-verify,123456,123456
+0 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 1 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 1
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 2 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 2
+client-verify,11111,11111
+127.0.0.1
+Connected to database
+Server thread number 3 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 3
+client-verify,123456,saimatkhau
+127.0.0.1
+Connected to database
+Server thread number 4 Started
+S? thread ?ang ch?y là: 4
+Kh?i ??ng lu?ng m?i thành công, ID là: 4
+client-verify,ko_ton_tai_xxx,123
+127.0.0.1
+Connected to database
+Server thread number 5 Started
+S? thread ?ang ch?y là: 5
+Kh?i ??ng lu?ng m?i thành công, ID là: 5
+127.0.0.1
+Connected to database
+Server thread number 6 Started
+S? thread ?ang ch?y là: 6
+Kh?i ??ng lu?ng m?i thành công, ID là: 6
+T?o phòng [??i Gia] thành công, ID: 100
+Connected to database
+T?o phòng m?i không password
+Vào phòng 100
+127.0.0.1
+Connected to database
+Server thread number 7 Started
+S? thread ?ang ch?y là: 7
+Kh?i ??ng lu?ng m?i thành công, ID là: 7
+client-verify,tu_vilowtest,vilow
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+[AuctionEngine] Room 100 | Ch? ??: M? ph?m | 6 món | T?ng giá tr? th?c: 5450000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 1.5
+[AuctionEngine] Room 100 — Vòng 1 b?t ??u
+[AuctionEngine] P_est=12960000 | P_buyout=34220434 (M=2.64)
+[AuctionEngine] Hé l?: Kem ch?ng n?ng Anessa 60ml (Vòng 1)
+[AuctionEngine] BID (kín): tu_duoitest-nick ? 1000000 (CH? SERVER BI?T)
+room-list,
+6 ?ã thoát
+1 ?ã thoát
+4 ?ã thoát
+3 ?ã thoát
+5 ?ã thoát
+[ServerThread] T?t c? ng??i ch?i ?ã thoát phòng 100. K?t thúc phiên.
+[AuctionEngine] Hu? phiên: bid cao nh?t (1000000) không v??t giá ??c tính cu?i (12960000)
+[AuctionEngine] K?t thúc phiên Room 100 | Lý do: ALL_DISCONNECTED | Winner: không có | Giá: 0
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+7 ?ã thoát
+2 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 8 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 8
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 9 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 9
+8 ?ã thoát
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 10 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 10
+9 ?ã thoát
+client-verify,manh,manh
+10 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 11 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 11
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 12 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 12
+11 ?ã thoát
+client-verify,manh,manh
+12 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 13 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 13
+client-verify,manh,manh
+13 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 14 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 14
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 15 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 15
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 16 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 16
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 17 Started
+S? thread ?ang ch?y là: 4
+Kh?i ??ng lu?ng m?i thành công, ID là: 17
+client-verify,123456,saimatkhau
+127.0.0.1
+Connected to database
+Server thread number 18 Started
+S? thread ?ang ch?y là: 5
+Kh?i ??ng lu?ng m?i thành công, ID là: 18
+client-verify,ko_ton_tai_xxx,123
+127.0.0.1
+Connected to database
+Server thread number 19 Started
+S? thread ?ang ch?y là: 6
+Kh?i ??ng lu?ng m?i thành công, ID là: 19
+127.0.0.1
+Connected to database
+Server thread number 20 Started
+S? thread ?ang ch?y là: 7
+Kh?i ??ng lu?ng m?i thành công, ID là: 20
+T?o phòng [??i Gia] thành công, ID: 101
+Connected to database
+T?o phòng m?i không password
+Vào phòng 101
+127.0.0.1
+Connected to database
+Server thread number 21 Started
+S? thread ?ang ch?y là: 8
+Kh?i ??ng lu?ng m?i thành công, ID là: 21
+client-verify,tu_vilowtest,vilow
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+[AuctionEngine] Room 101 | Ch? ??: Nh?c c? | 5 món | T?ng giá tr? th?c: 2240000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 1.9
+[AuctionEngine] Room 101 — Vòng 1 b?t ??u
+[AuctionEngine] P_est=2573142 | P_buyout=6800231 (M=2.64)
+[AuctionEngine] Hé l?: Ukulele soprano g? mahogany (Vòng 1)
+[AuctionEngine] BID (kín): tu_duoitest-nick ? 1000000 (CH? SERVER BI?T)
+room-list,
+14 ?ã thoát
+[ServerThread] T?t c? ng??i ch?i ?ã thoát phòng 101. K?t thúc phiên.
+[AuctionEngine] Hu? phiên: bid cao nh?t (1000000) không v??t giá ??c tính cu?i (2573142)
+17 ?ã thoát
+[AuctionEngine] K?t thúc phiên Room 101 | Lý do: ALL_DISCONNECTED | Winner: không có | Giá: 0
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+18 ?ã thoát
+19 ?ã thoát
+20 ?ã thoát
+16 ?ã thoát
+15 ?ã thoát
+21 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 22 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 22
+client-verify,manh,manh
+22 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 23 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 23
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 24 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 24
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 25 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 25
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 26 Started
+S? thread ?ang ch?y là: 4
+Kh?i ??ng lu?ng m?i thành công, ID là: 26
+client-verify,123456,saimatkhau
+127.0.0.1
+Connected to database
+Server thread number 27 Started
+S? thread ?ang ch?y là: 5
+Kh?i ??ng lu?ng m?i thành công, ID là: 27
+client-verify,ko_ton_tai_xxx,123
+127.0.0.1
+Connected to database
+Server thread number 28 Started
+S? thread ?ang ch?y là: 6
+Kh?i ??ng lu?ng m?i thành công, ID là: 28
+127.0.0.1
+Connected to database
+Server thread number 29 Started
+S? thread ?ang ch?y là: 7
+Kh?i ??ng lu?ng m?i thành công, ID là: 29
+T?o phòng [??i Gia] thành công, ID: 102
+Connected to database
+T?o phòng m?i không password
+Vào phòng 102
+127.0.0.1
+Connected to database
+Server thread number 30 Started
+S? thread ?ang ch?y là: 8
+Kh?i ??ng lu?ng m?i thành công, ID là: 30
+client-verify,tu_vilowtest,vilow
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+[AuctionEngine] Room 102 | Ch? ??: Nh?c c? | 6 món | T?ng giá tr? th?c: 7630000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 9.7
+[AuctionEngine] Room 102 — Vòng 1 b?t ??u
+[AuctionEngine] P_est=3928499 | P_buyout=11713916 (M=2.98)
+[AuctionEngine] Hé l?: Tr?ng Cajon mini (Vòng 1)
+[AuctionEngine] BID (kín): tu_duoitest-nick ? 1000000 (CH? SERVER BI?T)
+room-list,
+23 ?ã thoát
+[ServerThread] T?t c? ng??i ch?i ?ã thoát phòng 102. K?t thúc phiên.
+26 ?ã thoát
+[AuctionEngine] Hu? phiên: bid cao nh?t (1000000) không v??t giá ??c tính cu?i (3928499)
+[AuctionEngine] K?t thúc phiên Room 102 | Lý do: ALL_DISCONNECTED | Winner: không có | Giá: 0
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+27 ?ã thoát
+28 ?ã thoát
+29 ?ã thoát
+25 ?ã thoát
+30 ?ã thoát
+24 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 31 Started
+S? thread ?ang ch?y là: 1
+Kh?i ??ng lu?ng m?i thành công, ID là: 31
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 32 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 32
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 33 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 33
+client-verify,123456,123456
+127.0.0.1
+Connected to database
+Server thread number 34 Started
+S? thread ?ang ch?y là: 4
+Kh?i ??ng lu?ng m?i thành công, ID là: 34
+client-verify,123456,saimatkhau
+127.0.0.1
+Connected to database
+Server thread number 35 Started
+S? thread ?ang ch?y là: 5
+Kh?i ??ng lu?ng m?i thành công, ID là: 35
+client-verify,ko_ton_tai_xxx,123
+127.0.0.1
+Connected to database
+Server thread number 36 Started
+S? thread ?ang ch?y là: 6
+Kh?i ??ng lu?ng m?i thành công, ID là: 36
+127.0.0.1
+Connected to database
+Server thread number 37 Started
+S? thread ?ang ch?y là: 7
+Kh?i ??ng lu?ng m?i thành công, ID là: 37
+T?o phòng [??i Gia] thành công, ID: 103
+Connected to database
+T?o phòng m?i không password
+127.0.0.1
+Connected to database
+Server thread number 38 Started
+S? thread ?ang ch?y là: 8
+Kh?i ??ng lu?ng m?i thành công, ID là: 38
+client-verify,tu_vilowtest,vilow
+room-list,103,DAI_GIA,1,3,0,
+34 ?ã thoát
+36 ?ã thoát
+31 ?ã thoát
+35 ?ã thoát
+37 ?ã thoát
+33 ?ã thoát
+32 ?ã thoát
+38 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 39 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 39
+client-verify,manh,manh
+127.0.0.1
+Connected to database
+Server thread number 40 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 40
+client-verify,manh,saimatkhau
+127.0.0.1
+Connected to database
+Server thread number 41 Started
+S? thread ?ang ch?y là: 4
+Kh?i ??ng lu?ng m?i thành công, ID là: 41
+client-verify,ko_ton_tai_xxx,123
+127.0.0.1
+Connected to database
+Server thread number 42 Started
+S? thread ?ang ch?y là: 5
+Kh?i ??ng lu?ng m?i thành công, ID là: 42
+127.0.0.1
+Connected to database
+Server thread number 43 Started
+S? thread ?ang ch?y là: 6
+Kh?i ??ng lu?ng m?i thành công, ID là: 43
+T?o phòng [??i Gia] thành công, ID: 104
+Connected to database
+T?o phòng m?i không password
+Vào phòng 104
+127.0.0.1
+Connected to database
+Server thread number 44 Started
+S? thread ?ang ch?y là: 7
+Kh?i ??ng lu?ng m?i thành công, ID là: 44
+client-verify,tu_vilowtest,vilow
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+[AuctionEngine] Room 104 | Ch? ??: Gia d?ng | 5 món | T?ng giá tr? th?c: 3495000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 16.0
+[AuctionEngine] Room 104 — Vòng 1 b?t ??u
+[AuctionEngine] P_est=4712727 | P_buyout=13407592 (M=2.84)
+[AuctionEngine] Hé l?: Th?m tr?i phòng 160×230 (Vòng 1)
+[AuctionEngine] BID (kín): tu_duoitest-nick ? 1000000 (CH? SERVER BI?T)
+room-list,
+39 ?ã thoát
+40 ?ã thoát
+41 ?ã thoát
+[ServerThread] T?t c? ng??i ch?i ?ã thoát phòng 104. K?t thúc phiên.
+42 ?ã thoát
+[AuctionEngine] Hu? phiên: bid cao nh?t (1000000) không v??t giá ??c tính cu?i (4712727)
+43 ?ã thoát
+[AuctionEngine] K?t thúc phiên Room 104 | Lý do: ALL_DISCONNECTED | Winner: không có | Giá: 0
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+44 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 45 Started
+S? thread ?ang ch?y là: 2
+Kh?i ??ng lu?ng m?i thành công, ID là: 45
+Connected to database
+client-verify,manh,manh
+room-list,
+room-list,
+client-verify,12345,12345
+T?o phòng [??i Gia] thành công, ID: 105
+Connected to database
+T?o phòng m?i không password
+Connected to database
+127.0.0.1
+Connected to database
+Server thread number 46 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 46
+client-verify,manh,manh
+T?o phòng [??i Gia] thành công, ID: 106
+Connected to database
+T?o phòng m?i không password
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] waiting-room-update,3,3,DAI_GIA,aaaa,­ƒñû M?íy Tr?¡ Tuß?ç,­ƒñû M?íy S?ân Deal
+  [BOT #9102 nh?n] waiting-room-update,3,3,DAI_GIA,aaaa,­ƒñû M?íy Tr?¡ Tuß?ç,­ƒñû M?íy S?ân Deal
+[BotManager] Room 106: 2 bot ?ã vào phòng
+  [BOT #9101 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9102 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9101 nh?n] auction-ready,106
+  [BOT #9102 nh?n] auction-ready,106
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] auction-start,12,1.30,O_TO,Ô tô
+  [BOT #9102 nh?n] auction-start,12,1.30,O_TO,Ô tô
+[AuctionEngine] Room 106 | Ch? ??: Ô tô | 4 món | T?ng giá tr? th?c: 1360000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 1.3
+[AuctionEngine] Room 106 — Vòng 1 b?t ??u
+  [BOT #9101 nh?n] round-update,1,45
+  [BOT #9102 nh?n] round-update,1,45
+  [BOT #9101 nh?n] estimate-update,676000,1936118
+  [BOT #9102 nh?n] estimate-update,676000,1936118
+[AuctionEngine] P_est=676000 | P_buyout=1936117 (M=2.86)
+  [BOT #9101 nh?n] item-reveal,52,Tinh d?u th?m ô tô,theme_o_to.png
+  [BOT #9102 nh?n] item-reveal,52,Tinh d?u th?m ô tô,theme_o_to.png
+[AuctionEngine] Hé l?: Tinh d?u th?m ô tô (Vòng 1)
+[BotManager] ­ƒñû M?íy Tr?¡ Tuß?ç quy?t ??nh MUA ??T 1936117
+[AuctionEngine] BUYOUT: ­ƒñû M?íy Tr?¡ Tuß?ç ? 1936117
+[AuctionEngine] K?t thúc phiên Room 106 | Lý do: BUYOUT | Winner: 101 | Giá: 1936117
+[AuctionEngine] ? ??p h?p thành ti?n: ng??i th?ng #101 tr? 1936117 ? nh?n thùng tr? giá 1360000 (lãi/l?: -576117)
+  [BOT #9101 nh?n] bid-reveal,1,101,­ƒñû M?íy Tr?¡ Tuß?ç,1936117,1,buyout
+  [BOT #9102 nh?n] bid-reveal,1,101,­ƒñû M?íy Tr?¡ Tuß?ç,1936117,1,buyout
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+  [BOT #9101 nh?n] auction-ended,101,1936117,1,99423882,4,52,Tinh d?u th?m ô tô,theme_o_to.png,130000,0.30,62,Kính áp tròng lái xe ban ?êm,theme_o_to.png,520000,0.10,70,B? sáp ?ánh bóng cao c?p,theme_o_to.png,110000,0.70,54,B? s?c nhanh cho ô tô,theme_o_to.png,600000,0.20
+  [BOT #9102 nh?n] auction-ended,101,1936117,1,99423882,4,52,Tinh d?u th?m ô tô,theme_o_to.png,130000,0.30,62,Kính áp tròng lái xe ban ?êm,theme_o_to.png,520000,0.10,70,B? sáp ?ánh bóng cao c?p,theme_o_to.png,110000,0.70,54,B? s?c nhanh cho ô tô,theme_o_to.png,600000,0.20
+  [BOT #9101 nh?n] auction-result,101,1936117,1,99423882
+  [BOT #9102 nh?n] auction-result,101,1936117,1,99423882
+[BotManager] Room 106: gi?i phóng 2 bot
+46 ?ã thoát
+127.0.0.1
+Connected to database
+Server thread number 47 Started
+S? thread ?ang ch?y là: 3
+Kh?i ??ng lu?ng m?i thành công, ID là: 47
+client-verify,manh,manh
+T?o phòng [??i Gia] thành công, ID: 107
+Connected to database
+T?o phòng m?i không password
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] waiting-room-update,3,3,DAI_GIA,aaaa,? Máy Trí Tu?,? Máy S?n Deal
+  [BOT #9102 nh?n] waiting-room-update,3,3,DAI_GIA,aaaa,? Máy Trí Tu?,? Máy S?n Deal
+[BotManager] Room 107: 2 bot ?ã vào phòng
+  [BOT #9101 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9102 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9101 nh?n] auction-ready,107
+  [BOT #9102 nh?n] auction-ready,107
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] auction-start,13,4.60,SACH_VAN_PHONG,Sách & V?n phòng
+  [BOT #9102 nh?n] auction-start,13,4.60,SACH_VAN_PHONG,Sách & V?n phòng
+[AuctionEngine] Room 107 | Ch? ??: Sách & V?n phòng | 4 món | T?ng giá tr? th?c: 3450000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 4.6000000000000005
+[AuctionEngine] Room 107 — Vòng 1 b?t ??u
+  [BOT #9101 nh?n] round-update,1,45
+  [BOT #9102 nh?n] round-update,1,45
+  [BOT #9101 nh?n] estimate-update,18492000,50000000
+  [BOT #9102 nh?n] estimate-update,18492000,50000000
+[AuctionEngine] P_est=18492000 | P_buyout=50000000 (M=2.76)
+  [BOT #9101 nh?n] item-reveal,157,Máy tính Casio FX-580VNX,theme_sach.png
+  [BOT #9102 nh?n] item-reveal,157,Máy tính Casio FX-580VNX,theme_sach.png
+[AuctionEngine] Hé l?: Máy tính Casio FX-580VNX (Vòng 1)
+[BotManager] ? Máy Trí Tu? bid 11810000 (V1, est=18492000)
+  [BOT #9101 nh?n] bid-accepted,101,? Máy Trí Tu?
+  [BOT #9102 nh?n] bid-accepted,101,? Máy Trí Tu?
+[AuctionEngine] BID (kín): ? Máy Trí Tu? ? 11810000 (CH? SERVER BI?T)
+[BotManager] ? Máy S?n Deal bid 12426000 (V1, est=18492000)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 12426000 (CH? SERVER BI?T)
+[BotManager] ? Máy S?n Deal bid 12785000 (V1, est=18492000)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 12785000 (CH? SERVER BI?T)
+  [BOT #9101 nh?n] bid-accepted,1,aaaa
+  [BOT #9102 nh?n] bid-accepted,1,aaaa
+[AuctionEngine] BID (kín): aaaa ? 1000000 (CH? SERVER BI?T)
+  [BOT #9101 nh?n] chat-server,Ng??i ch?i aaaa ?ã thoát kh?i phiên ??u giá.
+  [BOT #9102 nh?n] chat-server,Ng??i ch?i aaaa ?ã thoát kh?i phiên ??u giá.
+47 ?ã thoát
+  [BOT #9101 nh?n] bid-reveal,4,101,? Máy Trí Tu?,11810000,1,bid,102,? Máy S?n Deal,12426000,1,bid,102,? Máy S?n Deal,12785000,1,bid,1,?,1000000,1,bid
+  [BOT #9102 nh?n] bid-reveal,4,101,? Máy Trí Tu?,11810000,1,bid,102,? Máy S?n Deal,12426000,1,bid,102,? Máy S?n Deal,12785000,1,bid,1,?,1000000,1,bid
+[AuctionEngine] Công b? 4 giá ?ã ??t (h?t vòng/k?t thúc)
+[AuctionEngine] Room 107 — Vòng 2 b?t ??u
+  [BOT #9101 nh?n] round-update,2,45
+  [BOT #9102 nh?n] round-update,2,45
+  [BOT #9101 nh?n] estimate-update,3331167,7004865
+  [BOT #9102 nh?n] estimate-update,3331167,7004865
+[AuctionEngine] P_est=3331166 | P_buyout=7004864 (M=2.10)
+  [BOT #9101 nh?n] item-reveal,156,B? 5 sách k? n?ng CEO,theme_sach.png
+  [BOT #9102 nh?n] item-reveal,156,B? 5 sách k? n?ng CEO,theme_sach.png
+[AuctionEngine] Hé l?: B? 5 sách k? n?ng CEO (Vòng 2)
+[BotManager] ? Máy S?n Deal bid 2012000 (V2, est=3331166)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 2012000 (CH? SERVER BI?T)
+[BotManager] ? Máy Trí Tu? quy?t ??nh MUA ??T 7004864
+[AuctionEngine] BUYOUT: ? Máy Trí Tu? ? 7004864
+[AuctionEngine] K?t thúc phiên Room 107 | Lý do: BUYOUT | Winner: 101 | Giá: 7004864
+[AuctionEngine] ? ??p h?p thành ti?n: ng??i th?ng #101 tr? 7004864 ? nh?n thùng tr? giá 3450000 (lãi/l?: -3554864)
+  [BOT #9101 nh?n] bid-reveal,6,101,? Máy Trí Tu?,11810000,1,bid,102,? Máy S?n Deal,12426000,1,bid,102,? Máy S?n Deal,12785000,1,bid,1,?,1000000,1,bid,102,? Máy S?n Deal,2012000,2,bid,101,? Máy Trí Tu?,7004864,2,buyout
+  [BOT #9102 nh?n] bid-reveal,6,101,? Máy Trí Tu?,11810000,1,bid,102,? Máy S?n Deal,12426000,1,bid,102,? Máy S?n Deal,12785000,1,bid,1,?,1000000,1,bid,102,? Máy S?n Deal,2012000,2,bid,101,? Máy Trí Tu?,7004864,2,buyout
+[AuctionEngine] Công b? 6 giá ?ã ??t (h?t vòng/k?t thúc)
+  [BOT #9101 nh?n] auction-ended,101,7004864,1,95869017,4,169,C?p tài li?u da A4,theme_sach.png,720000,0.70,156,B? 5 sách k? n?ng CEO,theme_sach.png,910000,2.20,168,B? th? pháp Trung Qu?c,theme_sach.png,1150000,1.50,157,Máy tính Casio FX-580VNX,theme_sach.png,670000,0.20
+  [BOT #9102 nh?n] auction-ended,101,7004864,1,95869017,4,169,C?p tài li?u da A4,theme_sach.png,720000,0.70,156,B? 5 sách k? n?ng CEO,theme_sach.png,910000,2.20,168,B? th? pháp Trung Qu?c,theme_sach.png,1150000,1.50,157,Máy tính Casio FX-580VNX,theme_sach.png,670000,0.20
+  [BOT #9101 nh?n] auction-result,101,7004864,1,95869017
+  [BOT #9102 nh?n] auction-result,101,7004864,1,95869017
+[BotManager] Room 107: gi?i phóng 2 bot
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] waiting-room-update,3,3,DAI_GIA,djss,? Máy Trí Tu?,? Máy S?n Deal
+  [BOT #9102 nh?n] waiting-room-update,3,3,DAI_GIA,djss,? Máy Trí Tu?,? Máy S?n Deal
+[BotManager] Room 105: 2 bot ?ã vào phòng
+  [BOT #9101 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9102 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9101 nh?n] auction-ready,105
+  [BOT #9102 nh?n] auction-ready,105
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] auction-start,14,6.60,DO_CHOI,?? ch?i
+  [BOT #9102 nh?n] auction-start,14,6.60,DO_CHOI,?? ch?i
+[AuctionEngine] Room 105 | Ch? ??: ?? ch?i | 5 món | T?ng giá tr? th?c: 4385000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 6.6
+[AuctionEngine] Room 105 — Vòng 1 b?t ??u
+  [BOT #9101 nh?n] round-update,1,45
+  [BOT #9102 nh?n] round-update,1,45
+  [BOT #9101 nh?n] estimate-update,1485000,3976921
+  [BOT #9102 nh?n] estimate-update,1485000,3976921
+[AuctionEngine] P_est=1485000 | P_buyout=3976920 (M=2.68)
+  [BOT #9101 nh?n] item-reveal,183,Puzzle 1000 m?nh landscape,theme_do_choi.png
+  [BOT #9102 nh?n] item-reveal,183,Puzzle 1000 m?nh landscape,theme_do_choi.png
+[AuctionEngine] Hé l?: Puzzle 1000 m?nh landscape (Vòng 1)
+[BotManager] ? Máy Trí Tu? quy?t ??nh MUA ??T 3976920
+[AuctionEngine] BUYOUT: ? Máy Trí Tu? ? 3976920
+[AuctionEngine] K?t thúc phiên Room 105 | Lý do: BUYOUT | Winner: 101 | Giá: 3976920
+[AuctionEngine] ? ??p h?p thành ti?n: ng??i th?ng #101 tr? 3976920 ? nh?n thùng tr? giá 4385000 (lãi/l?: 408079)
+  [BOT #9101 nh?n] bid-reveal,1,101,? Máy Trí Tu?,3976920,1,buyout
+  [BOT #9102 nh?n] bid-reveal,1,101,? Máy Trí Tu?,3976920,1,buyout
+[AuctionEngine] Công b? 1 giá ?ã ??t (h?t vòng/k?t thúc)
+  [BOT #9101 nh?n] auction-ended,101,3976920,1,96277096,5,183,Puzzle 1000 m?nh landscape,theme_do_choi.png,150000,0.80,187,B? ?? n?u ?n ?? ch?i bé,theme_do_choi.png,95000,1.00,186,Robot l?p trình giáo d?c,theme_do_choi.png,2700000,1.80,175,?? ch?i l?p ráp giáo d?c STEM,theme_do_choi.png,720000,1.00,178,B? truy?n Doraemon 10 t?p,theme_do_choi.png,720000,2.00
+  [BOT #9102 nh?n] auction-ended,101,3976920,1,96277096,5,183,Puzzle 1000 m?nh landscape,theme_do_choi.png,150000,0.80,187,B? ?? n?u ?n ?? ch?i bé,theme_do_choi.png,95000,1.00,186,Robot l?p trình giáo d?c,theme_do_choi.png,2700000,1.80,175,?? ch?i l?p ráp giáo d?c STEM,theme_do_choi.png,720000,1.00,178,B? truy?n Doraemon 10 t?p,theme_do_choi.png,720000,2.00
+  [BOT #9101 nh?n] auction-result,101,3976920,1,96277096
+  [BOT #9102 nh?n] auction-result,101,3976920,1,96277096
+[BotManager] Room 105: gi?i phóng 2 bot
+T?o phòng [??i Gia] thành công, ID: 108
+Connected to database
+T?o phòng m?i không password
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] waiting-room-update,3,3,DAI_GIA,djss,? Máy Trí Tu?,? Máy S?n Deal
+  [BOT #9102 nh?n] waiting-room-update,3,3,DAI_GIA,djss,? Máy Trí Tu?,? Máy S?n Deal
+[BotManager] Room 108: 2 bot ?ã vào phòng
+  [BOT #9101 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9102 nh?n] chat-server,? 2 máy ?ã tham gia phòng — chu?n b? ??u giá!
+  [BOT #9101 nh?n] auction-ready,108
+  [BOT #9102 nh?n] auction-ready,108
+Connected to database
+Connected to database
+Connected to database
+Connected to database
+  [BOT #9101 nh?n] auction-start,15,10.60,NHAC_CU,Nh?c c?
+  [BOT #9102 nh?n] auction-start,15,10.60,NHAC_CU,Nh?c c?
+[AuctionEngine] Room 108 | Ch? ??: Nh?c c? | 6 món | T?ng giá tr? th?c: 5300000 (BÍ M?T, cap 50000000) | T?ng kh?i l??ng: 10.6
+[AuctionEngine] Room 108 — Vòng 1 b?t ??u
+  [BOT #9101 nh?n] round-update,1,45
+  [BOT #9102 nh?n] round-update,1,45
+  [BOT #9101 nh?n] estimate-update,14355429,36558634
+  [BOT #9102 nh?n] estimate-update,14355429,36558634
+[AuctionEngine] P_est=14355428 | P_buyout=36558633 (M=2.55)
+  [BOT #9101 nh?n] item-reveal,211,Ukulele soprano g? mahogany,theme_nhac_cu.png
+  [BOT #9102 nh?n] item-reveal,211,Ukulele soprano g? mahogany,theme_nhac_cu.png
+[AuctionEngine] Hé l?: Ukulele soprano g? mahogany (Vòng 1)
+  [BOT #9101 nh?n] bid-accepted,3,djss
+  [BOT #9102 nh?n] bid-accepted,3,djss
+[AuctionEngine] BID (kín): djss ? 12919886 (CH? SERVER BI?T)
+[BotManager] ? Máy Trí Tu? bid 9169000 (V1, est=14355428)
+  [BOT #9101 nh?n] bid-accepted,101,? Máy Trí Tu?
+  [BOT #9102 nh?n] bid-accepted,101,? Máy Trí Tu?
+[AuctionEngine] BID (kín): ? Máy Trí Tu? ? 9169000 (CH? SERVER BI?T)
+[BotManager] ? Máy S?n Deal bid 13422000 (V1, est=14355428)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 13422000 (CH? SERVER BI?T)
+[BotManager] ? Máy Trí Tu? bid 14025000 (V1, est=14355428)
+  [BOT #9101 nh?n] bid-accepted,101,? Máy Trí Tu?
+  [BOT #9102 nh?n] bid-accepted,101,? Máy Trí Tu?
+[AuctionEngine] BID (kín): ? Máy Trí Tu? ? 14025000 (CH? SERVER BI?T)
+[BotManager] ? Máy S?n Deal bid 13422000 (V1, est=14355428)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 13422000 (CH? SERVER BI?T)
+[BotManager] ? Máy Trí Tu? bid 7521000 (V1, est=14355428)
+  [BOT #9101 nh?n] bid-accepted,101,? Máy Trí Tu?
+  [BOT #9102 nh?n] bid-accepted,101,? Máy Trí Tu?
+[AuctionEngine] BID (kín): ? Máy Trí Tu? ? 7521000 (CH? SERVER BI?T)
+  [BOT #9101 nh?n] bid-accepted,3,djss
+  [BOT #9102 nh?n] bid-accepted,3,djss
+[AuctionEngine] BID (kín): djss ? 15790972 (CH? SERVER BI?T)
+  [BOT #9101 nh?n] bid-reveal,7,3,djss,12919886,1,bid,101,? Máy Trí Tu?,9169000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,14025000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,7521000,1,bid,3,djss,15790972,1,bid
+  [BOT #9102 nh?n] bid-reveal,7,3,djss,12919886,1,bid,101,? Máy Trí Tu?,9169000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,14025000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,7521000,1,bid,3,djss,15790972,1,bid
+[AuctionEngine] Công b? 7 giá ?ã ??t (h?t vòng/k?t thúc)
+[AuctionEngine] Room 108 — Vòng 2 b?t ??u
+  [BOT #9101 nh?n] round-update,2,45
+  [BOT #9102 nh?n] round-update,2,45
+  [BOT #9101 nh?n] estimate-update,8072308,16234464
+  [BOT #9102 nh?n] estimate-update,8072308,16234464
+[AuctionEngine] P_est=8072307 | P_buyout=16234464 (M=2.01)
+  [BOT #9101 nh?n] item-reveal,227,B? chày c?i ?ánh nh?p Lào,theme_nhac_cu.png
+  [BOT #9102 nh?n] item-reveal,227,B? chày c?i ?ánh nh?p Lào,theme_nhac_cu.png
+[AuctionEngine] Hé l?: B? chày c?i ?ánh nh?p Lào (Vòng 2)
+[BotManager] ? Máy S?n Deal bid 7548000 (V2, est=8072307)
+  [BOT #9101 nh?n] bid-accepted,102,? Máy S?n Deal
+  [BOT #9102 nh?n] bid-accepted,102,? Máy S?n Deal
+[AuctionEngine] BID (kín): ? Máy S?n Deal ? 7548000 (CH? SERVER BI?T)
+[BotManager] ? Máy Trí Tu? bid 8880000 (V2, est=8072307)
+  [BOT #9101 nh?n] bid-accepted,101,? Máy Trí Tu?
+  [BOT #9102 nh?n] bid-accepted,101,? Máy Trí Tu?
+[AuctionEngine] BID (kín): ? Máy Trí Tu? ? 8880000 (CH? SERVER BI?T)
+[AuctionEngine] BUYOUT: djss ? 16234464
+[AuctionEngine] K?t thúc phiên Room 108 | Lý do: BUYOUT | Winner: 3 | Giá: 16234464
+[AuctionEngine] ? ??p h?p thành ti?n: ng??i th?ng #3 tr? 16234464 ? nh?n thùng tr? giá 5300000 (lãi/l?: -10934464)
+  [BOT #9101 nh?n] bid-reveal,10,3,djss,12919886,1,bid,101,? Máy Trí Tu?,9169000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,14025000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,7521000,1,bid,3,djss,15790972,1,bid,102,? Máy S?n Deal,7548000,2,bid,101,? Máy Trí Tu?,8880000,2,bid,3,djss,16234464,2,buyout
+  [BOT #9102 nh?n] bid-reveal,10,3,djss,12919886,1,bid,101,? Máy Trí Tu?,9169000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,14025000,1,bid,102,? Máy S?n Deal,13422000,1,bid,101,? Máy Trí Tu?,7521000,1,bid,3,djss,15790972,1,bid,102,? Máy S?n Deal,7548000,2,bid,101,? Máy Trí Tu?,8880000,2,bid,3,djss,16234464,2,buyout
+[AuctionEngine] Công b? 10 giá ?ã ??t (h?t vòng/k?t thúc)
+  [BOT #9101 nh?n] auction-ended,3,16234464,1,6265535,6,211,Ukulele soprano g? mahogany,theme_nhac_cu.png,790000,0.70,219,B? tr?ng Bongo,theme_nhac_cu.png,1150000,3.00,228,Guitar ?àn sigma classical,theme_nhac_cu.png,1750000,2.00,230,B? ph? ki?n ?àn guitar (picks, strap, dây),theme_nhac_cu.png,150000,0.30,216,Tr?ng Cajon mini,theme_nhac_cu.png,1350000,4.00,227,B? chày c?i ?ánh nh?p Lào,theme_nhac_cu.png,110000,0.60
+  [BOT #9102 nh?n] auction-ended,3,16234464,1,6265535,6,211,Ukulele soprano g? mahogany,theme_nhac_cu.png,790000,0.70,219,B? tr?ng Bongo,theme_nhac_cu.png,1150000,3.00,228,Guitar ?àn sigma classical,theme_nhac_cu.png,1750000,2.00,230,B? ph? ki?n ?àn guitar (picks, strap, dây),theme_nhac_cu.png,150000,0.30,216,Tr?ng Cajon mini,theme_nhac_cu.png,1350000,4.00,227,B? chày c?i ?ánh nh?p Lào,theme_nhac_cu.png,110000,0.60
+  [BOT #9101 nh?n] auction-result,3,16234464,1,6265535
+  [BOT #9102 nh?n] auction-result,3,16234464,1,6265535
+[BotManager] Room 108: gi?i phóng 2 bot
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,manh,manh
+client-verify,12345,12345
+client-verify,12345,12345
+client-verify,12345,12345
+client-verify,12345,12345
+client-verify,12345,12345
+45 ?ã thoát
+Connected to database

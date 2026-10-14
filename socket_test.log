@@ -1,0 +1,25 @@
+[FAIL] Login manh đúng mật khẩu (10.00s)
+[PASS] Sai mật khẩu bị từ chối (wrong-player) -> wrong-player,manh,saimatkhau
+[PASS] User không tồn tại bị từ chối -> wrong-player,ko_ton_tai_xxx,123
+[PASS] leaderboard trả về -> return-leaderboard,1,manh,manh,aaaa,none.png,8,4,0,6.0,1.94E7,3,12345,12345,djss,none.png,4,8,0,0.0,
+[PASS] onlineList trả về -> return-onlineList,manh,aaaa,none.png,
+[PASS] Đăng ký tài khoản mới + tự đăng nhập -> login-success,25,tu_tientest,Test@OK1,tu_tientest-nick,none.png,0,0,0,0.0,1.0E8
+[PASS] Đăng ký tài khoản thứ 2 -> login-success,26,tu_duoitest,Test@OK2,tu_duoitest-nick,none.png,0,0,0,0.0,1.0E8
+[PASS] Đăng ký username trùng bị chặn -> duplicate-username,
+[PASS] Tạo phòng Đại Gia -> your-created-room,104
+[PASS] Nhận waiting-room-update -> waiting-room-update,1,3,DAI_GIA,tu_tientest-nick
+[PASS] User 2 vào phòng (2/3 người) -> waiting-room-update,2,3,DAI_GIA,tu_tientest-nick,tu_duoitest-nick
+[PASS] go-to-room ID sai → room-not-found -> room-not-found,
+[PASS] Ví 100M bị chặn tạo phòng Bình Dân -> room-reject,Số dư ví không đủ điều kiện hạng Bình Dân
+[PASS] Ví <2M bị chặn -> room-reject,Số dư ví quá thấp (cần tối thiểu 2.000.000 VNĐ)
+[PASS] start-auction bắt đầu -> auction-start,11,16.00,GIA_DUNG,Gia dụng
+[PASS] Bid hợp lệ → bid-accepted -> bid-accepted,26,tu_duoitest-nick
+[PASS] Bid chữ cái → bid-rejected -> bid-rejected,Số tiền không hợp lệ
+[PASS] Chat broadcast tới user khác -> chat-server,tu_tientest-nick : xin-chaotest
+[PASS] Bid sau khi leave-room bị từ chối -> bid-rejected,Không có phiên đấu giá đang diễn ra
+[PASS] view-room-list trả về -> room-list,
+
+==================================================
+KẾT QUẢ SOCKET FLOW: 19 PASS / 1 FAIL
+==================================================
+  FAIL: Login manh đúng mật khẩu (10.00s) -> None

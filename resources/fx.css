@@ -1,0 +1,197 @@
+/* Theme sáng tối giản — Đấu Giá Thùng Hàng Bí Ẩn (JavaFX) */
+
+.root {
+    -fx-background-color: #f7f8fa;
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+    -fx-font-size: 13px;
+    -fx-text-fill: #2b2f36;
+}
+
+.title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1f2430;
+}
+
+.player-name { -fx-font-size: 17px; -fx-font-weight: bold; }
+.wallet { -fx-font-size: 15px; -fx-font-weight: bold; -fx-text-fill: #0a7d33; }
+.muted { -fx-text-fill: #6b7280; -fx-font-size: 12px; }
+.error { -fx-text-fill: #c0392b; -fx-font-size: 12px; }
+
+.card {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-color: #e5e7eb;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.06), 6, 0.2, 0, 2);
+}
+
+.price { -fx-font-size: 15px; -fx-font-weight: bold; }
+
+.round { -fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #6d28d9; }
+.timer { -fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #b45309; }
+
+.sealed {
+    -fx-text-fill: #6d28d9;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+}
+.sealed-bid { -fx-text-fill: #4b5563; -fx-padding: 2 0 2 0; }
+
+.reveal {
+    -fx-background-color: #fef9c3;
+}
+.reveal-title {
+    -fx-font-weight: bold;
+    -fx-text-fill: #854d0e;
+}
+.reveal-line { -fx-text-fill: #374151; -fx-padding: 1 0 1 0; }
+
+.seat {
+    -fx-font-size: 14px;
+    -fx-padding: 6 10 6 10;
+    -fx-background-color: #f3f4f6;
+    -fx-background-radius: 8;
+}
+.seat-host { -fx-background-color: #ede9fe; -fx-font-weight: bold; }
+.theme-badge {
+    -fx-background-color: #fef3c7;
+    -fx-text-fill: #92400e;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-padding: 6 14 6 14;
+    -fx-background-radius: 8;
+}
+.seat-empty { -fx-text-fill: #9ca3af; }
+
+.primary {
+    -fx-background-color: #6d28d9;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+    -fx-padding: 8 16 8 16;
+}
+.primary:hover { -fx-background-color: #5b21b6; }
+.primary:disabled { -fx-background-color: #c4b5fd; }
+
+.accent {
+    -fx-background-color: #7c3aed;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+    -fx-padding: 8 16 8 16;
+}
+.accent:hover { -fx-background-color: #6d28d9; }
+
+.danger {
+    -fx-background-color: #dc2626;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+    -fx-padding: 8 16 8 16;
+}
+.danger:hover { -fx-background-color: #b91c1c; }
+
+.button {
+    -fx-background-color: #e5e7eb;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+    -fx-padding: 8 14 8 14;
+}
+.button:hover { -fx-background-color: #d1d5db; }
+
+.text-field, .password-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #d1d5db;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-padding: 6 8 6 8;
+}
+.text-field:focused, .password-field:focused {
+    -fx-border-color: #6d28d9;
+}
+
+.text-area {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e5e7eb;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+
+.table-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e5e7eb;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e5e7eb;
+    -fx-border-radius: 8;
+}
+
+.separator .line { -fx-border-color: #e5e7eb; }
+
+/* ====== AppShell — khung Một cửa sổ ====== */
+
+.menu {
+    -fx-background-color: #1f2430;
+    -fx-background-radius: 0 12 12 0;
+}
+
+.brand {
+    -fx-text-fill: #f9fafb;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-padding: 6 2 10 2;
+}
+
+.menu-item {
+    -fx-background-color: transparent;
+    -fx-text-fill: #d1d5db;
+    -fx-font-size: 13px;
+    -fx-alignment: CENTER-LEFT;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+    -fx-padding: 10 14 10 14;
+}
+.menu-item:hover { -fx-background-color: #374151; -fx-text-fill: white; }
+
+.menu-item-active {
+    -fx-background-color: #6d28d9;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.menu .card {
+    -fx-background-color: #2b3242;
+    -fx-border-color: #374151;
+}
+.menu .player-name { -fx-text-fill: white; }
+.menu .wallet { -fx-text-fill: #34d399; }
+.menu .label { -fx-text-fill: #d1d5db; }
+.menu .separator .line { -fx-border-color: #374151; }
+
+.content-pane {
+    -fx-background-color: transparent;
+}
+
+/* ====== Banner nội tuyến (thay Alert popup) ====== */
+
+.banner-area { -fx-padding: 0 0 2 0; }
+
+.banner {
+    -fx-background-radius: 8;
+    -fx-padding: 10 14 10 14;
+    -fx-font-size: 13px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.08), 4, 0.2, 0, 1);
+}
+.banner-info    { -fx-background-color: #dbeafe; -fx-text-fill: #1e3a8a; }
+.banner-success { -fx-background-color: #dcfce7; -fx-text-fill: #14532d; -fx-font-weight: bold; }
+.banner-warn    { -fx-background-color: #fef3c7; -fx-text-fill: #92400e; -fx-font-weight: bold; }
+.banner-error   { -fx-background-color: #fee2e2; -fx-text-fill: #991b1b; -fx-font-weight: bold; }
+.banner-ask     { -fx-background-color: #ede9fe; -fx-text-fill: #4c1d95; -fx-font-weight: bold; }
